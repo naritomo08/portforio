@@ -1,25 +1,27 @@
 # naritomo
 
 ## 自己紹介
-ここに簡単な自己紹介を書きます。自分がどのようなエンジニアであるか、どんな価値を提供できるかをアピールしてください。
+インフラエンジニアを21年経験しております。
+メインはサーバエンジニアですが、最近はインフラ領域にとどまらず、
+アーキテクチャエンジニアを目指しクラウド/バックエンド/フロント領域に手を出しております。
 
 ## スキルセット(業務経験)
-- **フロントエンド**: React, Angular, Vue, HTML, CSS, JavaScript, TypeScript
-- **バックエンド**: Node.js, Express, Django, Ruby on Rails, PHP, Laravel
-- **データベース**: MySQL, PostgreSQL, MongoDB, Firebase
-- **デプロイメント**: AWS, GCP, Heroku, Docker, Kubernetes
-- **バージョン管理**: Git, GitHub, GitLab
-- **その他ツール**: Webpack, Babel, Jenkins, CI/CD
+- **バックエンド**: Ruby on Rails, PHP, Laravel
+- **データベース**: MySQL, PostgreSQL, Oracle, SQLServer
+- **デプロイメント**: AWS, Docker
+- **バージョン管理**: Git, backlog
+- **OS**: Linux(RHEL), Windows
 
-## スキルセット(個人開発/研鑽)
-- **フロントエンド**: React, Angular, Vue, HTML, CSS, JavaScript, TypeScript
-- **バックエンド**: Node.js, Express, Django, Ruby on Rails, PHP, Laravel
-- **データベース**: MySQL, PostgreSQL, MongoDB, Firebase
-- **デプロイメント**: AWS, GCP, Heroku, Docker, Kubernetes
-- **バージョン管理**: Git, GitHub, GitLab
-- **その他ツール**: Webpack, Babel, Jenkins, CI/CD
+## スキルセット(個人研鑽/技術記事)
+- **フロントエンド**: React, Vue
+- **バックエンド**: python, Elixir, Phoenix, Ruby on Rails, PHP, Laravel
+- **データベース**: MySQL, PostgreSQL
+- **デプロイメント**: AWS, Azure, GCP, Docker
+- **バージョン管理**: Git, GitHub
+- **その他ツール**: GitHubAction, Lambda, APIGateway, Route53, ACM(SSH生成), ECS, ECR, 
+                  CI/CD(GitHubActioins), Terraform(Azure/AWS/GCP)
 
-## 実績・プロジェクト
+## 業務経験
 ### プロジェクト1: [プロジェクト名](リポジトリへのリンク)
 - 概要: このプロジェクトの簡単な説明
 - 役割: あなたが担当した部分
@@ -34,7 +36,7 @@
 - 成果: 達成した成果やプロジェクトの成果物へのリンク
 - スクリーンショット: 必要であれば、プロジェクトのスクリーンショットを追加
 
-## ブログ・記事
+## 技術記事
 ### 記事1: [プロジェクト名](qiitaへのリンク)
 - 概要: この記事の簡単な説明
 - 使用技術: プロジェクトで使用した技術やツール
