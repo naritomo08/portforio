@@ -18,7 +18,7 @@
 - **データベース**: MySQL, PostgreSQL
 - **デプロイメント**: AWS, Azure, GCP, Docker
 - **バージョン管理**: Git, GitHub
-- **その他ツール**: GitHubAction, Lambda, APIGateway, Route53, ACM(SSH生成), ECS, ECR, 
+- **その他ツール**: Lambda, APIGateway, Route53, ACM(SSH生成), ECS, ECR, ALB,
                   CI/CD(GitHubActioins), Terraform(Azure/AWS/GCP)
 
 ## 業務経験
