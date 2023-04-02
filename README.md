@@ -44,8 +44,7 @@
 * **データベース**: MySQL, PostgreSQL
 * **デプロイメント**: AWS, Azure, GCP, Docker
 * **バージョン管理**: Git, GitHub
-* **その他ツール**: Lambda, APIGateway, Route53, ACM(SSH生成), ECS, ECR, ALB,
-                  CI/CD(GitHubActioins), Terraform(Azure/AWS/GCP)
+* **その他ツール**: Lambda, APIGateway, Route53, ACM(SSH生成), ECS, ECR, ALB,CI/CD(GitHubActioins), Terraform(Azure/AWS/GCP)
 
 ## 業務経験
 
@@ -59,7 +58,7 @@
 - 概要: Access+SQLServerで構成されたシステムのWeb化を実施
 - 役割: 技術選定〜設計〜開発〜運用
 - 使用技術: SQLServer/Access/PHP/jQuery/IIS/Windows
-- 成果: アプリケーションリプレースに関わる顧客折衝/アプリリプレース技術の習得
+- 成果: アプリケーションリプレースに関わる業務部署との折衝/アプリリプレース技術の習得
 
 ### プロジェクト3: 社内システムリプレース(オンプレ→クラウド更改)
 - 概要: オンプレ稼働サーバのクラウド(AWS)へのリプレース
@@ -71,8 +70,7 @@
 
 ### 記事１: Dockerへの各種プログラム開発環境立ち上げ
 * 概要: フロントエンド/バックエンドに関連する各種開発環境のDocker構築方法の提示
-* 使用技術: Docker/Docker-compose/Laravel(PHP)/Rails(Ruby)/Phoenix(Elixir)
-           React/Vue
+* 使用技術: Docker/Docker-compose/Laravel(PHP)/Rails(Ruby)/Phoenix(Elixir)/React/Vue
 * 成果: DockerによるOSを問わない開発環境構築方法の習得
 * 技術記事: 
   - [Elixir/Phoenixをdocker環境で立ち上げてみる。](https://qiita.com/naritomo08/items/fecf4ace7b9ca9078102)
