@@ -48,8 +48,7 @@
 
 ## 業務経験
 ### プロジェクト1: 社内システム管理
-- 概要: 社内サーバ運用/管理担当として、
-　　　　オンプレ/仮想化サーバ80台近くの管理を担当
+- 概要: 社内サーバ運用/管理担当として、オンプレ/仮想化サーバ80台近くの管理を担当
 - 役割: サーバ運用チームリーダーを担当
 - 使用技術: Windows/Linux/VMware/ZABBIX
 - 成果: システムの運用に関わる立ち上げ〜リプレースまでのサイクルに関わる業務を実施。
@@ -99,7 +98,7 @@
   - [インフラ構築Terraformソース](https://github.com/naritomo08/laravel-fargate-infra-public)
   - [デプロイ対象Laravelソース](https://github.com/naritomo08/laravel-fargate-app-public)
 
-  ### 個人開発1: API開発
+### 個人開発1: API開発
 * 概要: API開発の実施(JSONパーサー)
 * 使用技術: Docker/Docker-compose/Phoenix(Elixir)
 * 成果: API開発を通じた開発方法の習得
