@@ -36,6 +36,7 @@
 ## スキルセット(個人開発/技術記事作成)
 
 [qiitaリンク](https://qiita.com/naritomo08/)
+
 [GitHubリンク](https://github.com/naritomo08/)
 
 * **フロントエンド**: React, Vue
