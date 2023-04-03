@@ -101,10 +101,12 @@
 
 ### 個人開発1: API開発
 * 概要: API開発の実施(JSONパーサー)
-* 使用技術: Docker/Docker-compose/Phoenix(Elixir)
+* 使用技術: Docker/Docker-compose/Phoenix(Elixir)/Laravel(PHP)/Ruby on Rails
 * 成果: API開発を通じた開発方法の習得
 * 技術記事: 
   - [Elixir/PhoenixでJSONパーサーAPIを作ってみる。](https://qiita.com/naritomo08/items/e45f5e97f44fcc6426a6)
+  - [PHP/LaravelでJSONパーサーAPIを作ってみる。](https://qiita.com/naritomo08/items/d495f3d8b1dc5680aa2e)
+  - [Ruby on RailsでJSONパーサーAPIを作ってみる。](https://qiita.com/naritomo08/items/2abd4ff6d0535aa87200)
 
 ## ソフトスキル
 
