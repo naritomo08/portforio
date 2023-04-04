@@ -40,11 +40,11 @@
 [GitHubリンク](https://github.com/naritomo08/)
 
 * **フロントエンド**: React, Vue
-* **バックエンド**: python, Elixir, Phoenix, Ruby on Rails, PHP, Laravel
+* **バックエンド**: python, Elixir, Phoenix, Ruby on Rails, PHP, Laravel, Python
 * **データベース**: MySQL, PostgreSQL
 * **デプロイメント**: AWS, Azure, GCP, Docker
 * **バージョン管理**: Git, GitHub
-* **その他ツール**: Route53, ACM(SSH生成), ECS, ECR, ALB, S3, CI/CD(GitHubActioins), Terraform(Azure/AWS/GCP)
+* **その他ツール**: Route53, ACM(SSH生成), ECS, ECR, ALB, S3, CI/CD(GitHubActioins), Terraform(Azure/AWS/GCP), Lambda, APIGateway
 
 ## 業務経験
 
@@ -101,12 +101,14 @@
 
 ### 個人開発1: API開発
 * 概要: API開発の実施(JSONパーサー)
-* 使用技術: Docker/Docker-compose/Phoenix(Elixir)/Laravel(PHP)/Ruby on Rails
+* 使用技術: Docker/Docker-compose/Phoenix(Elixir)/Laravel(PHP)/Ruby on Rails/Lambda/APIGateway/ACM/Route53/Python
 * 成果: API開発を通じた開発方法の習得
 * 技術記事: 
   - [Elixir/PhoenixでJSONパーサーAPIを作ってみる。](https://qiita.com/naritomo08/items/e45f5e97f44fcc6426a6)
   - [PHP/LaravelでJSONパーサーAPIを作ってみる。](https://qiita.com/naritomo08/items/d495f3d8b1dc5680aa2e)
   - [Ruby on RailsでJSONパーサーAPIを作ってみる。](https://qiita.com/naritomo08/items/2abd4ff6d0535aa87200)
+  - [Ruby on RailsでJSONパーサーAPIを作ってみる。](https://qiita.com/naritomo08/items/2abd4ff6d0535aa87200)
+  - [AWS Lambda+API GatewayでJSONパーサーAPIを作ってみる。](https://qiita.com/naritomo08/items/e60b08b014c723a1435f)
 
 ## ソフトスキル
 
