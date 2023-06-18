@@ -51,7 +51,7 @@
 ### プロジェクト1: システムリプレース(オンプレ→クラウド更改)
 - 概要: オンプレ稼働サーバのクラウド(AWS)へのリプレース
 - 役割: 技術選定〜提案〜設計〜構築〜運用引き継ぎのPL(7人)
-- 使用技術: AWS(EC2,DirectConnect,TransitGateway,VPC),Windows(AD)
+- 使用技術: AWS(EC2,DirectConnect,VPCPeering,VPC),Windows(AD)
 - 成果: サーバリプレースに関わる顧客折衝/サーバーリプレース技術の習得
 
 ### プロジェクト2: Webシステム受託開発
@@ -116,6 +116,13 @@
   - [Ruby on RailsでJSONパーサーAPIを作ってみる。](https://qiita.com/naritomo08/items/2abd4ff6d0535aa87200)
   - [Ruby on RailsでJSONパーサーAPIを作ってみる。](https://qiita.com/naritomo08/items/2abd4ff6d0535aa87200)
   - [AWS Lambda+API GatewayでJSONパーサーAPIを作ってみる。](https://qiita.com/naritomo08/items/e60b08b014c723a1435f)
+
+### 個人開発2: TODOサイト開発
+* 概要: TODOサイト開発の実施
+* 使用技術: Docker/Docker-compose/FastAPI(Python)/React/MySQL
+* 成果: TODOサイト開発を通じたサーバーレスサイト開発方法の習得
+* 技術記事: 
+  - [SPA対応させたToDoアプリを作成してみた。](https://qiita.com/naritomo08/items/6def339a15ec3bbef78a)
 
 ## ソフトスキル
 
