@@ -76,7 +76,7 @@
 
 ### 記事１: Dockerへの各種プログラム開発環境立ち上げ
 * 概要: フロントエンド/バックエンドに関連する各種開発環境のDocker構築方法の提示
-* 使用技術: Docker/Docker-compose/Laravel(PHP)/Rails(Ruby)/Phoenix(Elixir)/React/Vue/wordpress
+* 使用技術: Docker/Docker-compose/Laravel(PHP)/Rails(Ruby)/Phoenix(Elixir)/React/Vue/wordpress/java(maven)/tomcat/apache
 * 成果: DockerによるOSを問わない開発環境構築方法の習得
 * 技術記事: 
   - [Elixir/Phoenixをdocker環境で立ち上げてみる。](https://qiita.com/naritomo08/items/fecf4ace7b9ca9078102)
@@ -84,6 +84,7 @@
   - [php/laravelをdocker環境で立ち上げてみる。](https://qiita.com/naritomo08/items/a66f4647c13a6c4a920e)
   - [Vue/React開発環境をdocker環境で立ち上げてみる。](https://qiita.com/naritomo08/items/f57165958d258b6f5c17)
   - [wordpressをdocker環境で立ち上げてみる。](https://qiita.com/naritomo08/items/226ef6fb1c9368131b20)
+  - [Javaサーブレット開発環境をdocker環境で立ち上げてみる。](https://qiita.com/naritomo08/items/c3c713bd9625f225d2e7)
 
 ### 記事2: Terraformによる各種クラウドへのシステム立ち上げ
 * 概要: Terraformを使用したコードからのインフラ構築方法の提示の提示
@@ -113,7 +114,6 @@
 * 技術記事: 
   - [Elixir/PhoenixでJSONパーサーAPIを作ってみる。](https://qiita.com/naritomo08/items/e45f5e97f44fcc6426a6)
   - [PHP/LaravelでJSONパーサーAPIを作ってみる。](https://qiita.com/naritomo08/items/d495f3d8b1dc5680aa2e)
-  - [Ruby on RailsでJSONパーサーAPIを作ってみる。](https://qiita.com/naritomo08/items/2abd4ff6d0535aa87200)
   - [Ruby on RailsでJSONパーサーAPIを作ってみる。](https://qiita.com/naritomo08/items/2abd4ff6d0535aa87200)
   - [AWS Lambda+API GatewayでJSONパーサーAPIを作ってみる。](https://qiita.com/naritomo08/items/e60b08b014c723a1435f)
 
