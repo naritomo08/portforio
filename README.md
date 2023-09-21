@@ -88,7 +88,7 @@
 
 ### 記事2: Terraformによる各種クラウドへのシステム立ち上げ
 * 概要: Terraformを使用したコードからのインフラ構築方法の提示の提示
-* 使用技術: Docker/Docker-compose/Terraform/AWS/Azure/GCP
+* 使用技術: Docker/Docker-compose/Terraform/AWS/Azure/GCP/OCI
 * 成果: Terraformによるクラウド環境を問わない構築方法の習得
 * 技術記事: 
   - [Terraformをdocker環境で立ち上げてみる。](https://qiita.com/naritomo08/items/7e5a9d1b7eaf18dc0060)
@@ -96,8 +96,8 @@
   - [Terraformにて、実践的なEC2サイトインフラを作成する。](https://qiita.com/naritomo08/items/0845c1dfeb11be9187cd)
 * ソースリポジトリ
   - [Terraform稼働Docker](https://github.com/naritomo08/terraform_docker_public)
-  - [Terraformソース](https://github.com/naritomo08/terraform_source_public)
-  - [Terraformソース2弾](https://github.com/naritomo08/terraform_main_source_public)
+  - [Terraformソース(AWS/Azure/GCP/OCI VMリソース作成)](https://github.com/naritomo08/terraform_source_public)
+  - [Terraformソース(AWS LB/EC2/RDS/Cache立ち上げ)](https://github.com/naritomo08/terraform_main_source_public)
 
 
 ### 記事3: CI/CD環境構築
