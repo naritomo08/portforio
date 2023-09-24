@@ -39,12 +39,12 @@
 
 [GitHubリンク](https://github.com/naritomo08/)
 
-* **フロントエンド**: React, Vue
+* **フロントエンド**: React, Vue, Angular
 * **バックエンド**: python, Elixir, Phoenix, Ruby on Rails, PHP, Laravel, Python
 * **データベース**: MySQL, PostgreSQL
-* **デプロイメント**: AWS, Azure, GCP, Docker
+* **デプロイメント**: AWS, Azure, GCP, OCI, Docker
 * **バージョン管理**: Git, GitHub
-* **その他ツール**: Route53, ACM(SSH生成), ECS, ECR, ALB, S3, CI/CD(GitHubActioins), Terraform(Azure/AWS/GCP), Lambda, APIGateway
+* **その他ツール**: Route53, ACM(SSH生成), ECS, ECR, ALB, S3, CI/CD(GitHubActioins), Terraform(Azure/AWS/GCP/OCI), Lambda, APIGateway
 
 ## 業務経験
 
@@ -76,7 +76,7 @@
 
 ### 記事１: Dockerへの各種プログラム開発環境立ち上げ
 * 概要: フロントエンド/バックエンドに関連する各種開発環境のDocker構築方法の提示
-* 使用技術: Docker/Docker-compose/Laravel(PHP)/Rails(Ruby)/Phoenix(Elixir)/React/Vue/wordpress/java(maven)/tomcat/apache
+* 使用技術: Docker/Docker-compose/Laravel(PHP)/Rails(Ruby)/Phoenix(Elixir)/React/Vue/wordpress/java(maven)/tomcat/apache/Angular
 * 成果: DockerによるOSを問わない開発環境構築方法の習得
 * 技術記事: 
   - [Elixir/Phoenixをdocker環境で立ち上げてみる。](https://qiita.com/naritomo08/items/fecf4ace7b9ca9078102)
@@ -85,6 +85,7 @@
   - [Vue/React開発環境をdocker環境で立ち上げてみる。](https://qiita.com/naritomo08/items/f57165958d258b6f5c17)
   - [wordpressをdocker環境で立ち上げてみる。](https://qiita.com/naritomo08/items/226ef6fb1c9368131b20)
   - [Javaサーブレット開発環境をdocker環境で立ち上げてみる。](https://qiita.com/naritomo08/items/c3c713bd9625f225d2e7)
+  - [Angular開発環境をdocker環境で立ち上げてみる。](https://qiita.com/naritomo08/items/b331ee87cbf9ed7af3f9)
 
 ### 記事2: Terraformによる各種クラウドへのシステム立ち上げ
 * 概要: Terraformを使用したコードからのインフラ構築方法の提示の提示
@@ -128,7 +129,6 @@
   - [SPA対応させたToDoアプリを作成してみた。](https://qiita.com/naritomo08/items/6def339a15ec3bbef78a)
 * ソースリポジトリ
   - [TODOサイトソース](https://github.com/naritomo08/todosite)
-
 
 ## ソフトスキル
 
