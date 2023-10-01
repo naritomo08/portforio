@@ -29,7 +29,7 @@
 
 * **バックエンド**: Ruby on Rails, PHP, Laravel
 * **データベース**: MySQL, PostgreSQL, Oracle, SQLServer
-* **デプロイメント**: AWS, Docker
+* **インフラ**: オンプレサーバー, VMware, AWS, Docker
 * **バージョン管理**: Git, backlog
 * **OS**: Linux(RHEL), Windows
 
@@ -42,7 +42,7 @@
 * **フロントエンド**: React, Vue, Angular
 * **バックエンド**: python, Elixir, Phoenix, Ruby on Rails, PHP, Laravel, Python
 * **データベース**: MySQL, PostgreSQL
-* **デプロイメント**: AWS, Azure, GCP, OCI, Docker
+* **インフラ**: AWS, Azure, GCP, OCI, Docker
 * **バージョン管理**: Git, GitHub
 * **その他ツール**: Route53, ACM(SSH生成), ECS, ECR, ALB, S3, CI/CD(GitHubActioins), Terraform(Azure/AWS/GCP/OCI), Lambda, APIGateway
 
