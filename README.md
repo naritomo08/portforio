@@ -40,7 +40,7 @@
 [GitHubリンク](https://github.com/naritomo08/)
 
 * **フロントエンド**: React, Vue, Angular
-* **バックエンド**: python, Elixir, Phoenix, Ruby on Rails, PHP, Laravel, Python
+* **バックエンド**: python, Elixir, Phoenix, Ruby on Rails, PHP, Laravel
 * **データベース**: MySQL, PostgreSQL
 * **インフラ**: AWS, Azure, GCP, OCI, Docker
 * **バージョン管理**: Git, GitHub
