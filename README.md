@@ -13,8 +13,8 @@
 
 インフラ(サーバー)エンジニア　10年
 * オンプレ(HP-UX/Solaris)3年
-* 仮想化(VMware/Windows/Linux)5年
-* クラウド(AWS,Azure,OCI)3年
+* 仮想化(VMware/Windows/Linux)6年
+* クラウド(AWS,Azure,OCI)2年
 * フェーズとしては要件定義/設計/構築がメイン
   - 直近の案件にてオンプレからクラウド(AWS,OCI)へのリプレース提案〜リリースを実施。
 
