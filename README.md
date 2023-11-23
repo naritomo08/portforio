@@ -14,9 +14,9 @@
 インフラ(サーバー)エンジニア　10年
 * オンプレ(HP-UX/Solaris)3年
 * 仮想化(VMware/Windows/Linux)5年
-* クラウド(AWS)2年
-* フェーズとしては設計/構築がメイン
-  - 直近の案件にてオンプレからクラウドへのリプレース提案〜リリースを実施。
+* クラウド(AWS,Azure,OCI)3年
+* フェーズとしては要件定義/設計/構築がメイン
+  - 直近の案件にてオンプレからクラウド(AWS,OCI)へのリプレース提案〜リリースを実施。
 
 社内SE　7年
 * 社内サーバ運用/管理担当として、オンプレ/仮想化サーバ80台近くの管理を担当
@@ -29,7 +29,7 @@
 
 * **バックエンド**: Ruby on Rails, PHP, Laravel
 * **データベース**: MySQL, PostgreSQL, Oracle, SQLServer
-* **インフラ**: オンプレサーバー, VMware, AWS, Docker
+* **インフラ**: オンプレサーバー, VMware, AWS, Azure, OCI, Docker
 * **バージョン管理**: Git, backlog
 * **OS**: Linux(RHEL), Windows
 
