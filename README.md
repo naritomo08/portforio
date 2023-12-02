@@ -51,8 +51,11 @@
 ### プロジェクト1: システムリプレース(オンプレ→クラウド更改)
 - 概要: オンプレ稼働サーバのクラウド(AWS,OCI)へのリプレース
 - 役割: 技術選定〜提案〜設計〜構築〜運用引き継ぎのPL(7人)
+       
        * OCIについては技術選定〜要件定義〜提案までを実施。
-- 使用技術: AWS(EC2,DirectConnect,VPCPeering,VPC),Windows(AD),OCI(Compute,FastConnet,DRG,VNC)
+- 使用技術: AWS(EC2,DirectConnect,VPCPeering,VPC),Windows(AD),
+           
+           OCI(Compute,FastConnet,DRG,VNC)
 - 成果: サーバリプレースに関わる顧客折衝/AWS設計構築技能の習得
 
 ### プロジェクト2: Webシステム受託開発
