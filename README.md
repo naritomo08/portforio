@@ -55,7 +55,7 @@
        * OCIについては技術選定〜要件定義〜提案までを実施。
 - 使用技術: AWS(EC2,DirectConnect,VPCPeering,VPC),Windows(AD),
            
-           OCI(Compute,FastConnet,DRG,VNC)
+          OCI(Compute,FastConnet,DRG,VNC)
 - 成果: サーバリプレースに関わる顧客折衝/AWS設計構築技能の習得
 
 ### プロジェクト2: Webシステム受託開発
