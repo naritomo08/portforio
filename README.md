@@ -25,7 +25,7 @@
 テストエンジニア　4年
 * 携帯電話基地局のSWブラックボックステストメイン
 
-## 業務経験(主要)
+## プロジェクト経験(主要)
 
 ### プロジェクト1: システムリプレース(オンプレ→クラウド更改)
 - 概要: オンプレ稼働サーバのクラウド(AWS,OCI)へのリプレース
@@ -60,6 +60,11 @@
 
 ## スキルセット(業務経験)
 
+エンタープライス系案件で扱うもの(オンプレ系システム)を中心に、Linux・Windowsオンプレ系中心の
+業務経験を持っています。
+
+クラウドについても構成は今までの延長上でのシステムを取り扱っています。
+
 * **バックエンド**: Ruby on Rails, PHP, Laravel
 * **データベース**: MySQL, PostgreSQL, Oracle, SQLServer
 * **インフラ**: オンプレサーバー, VMware, AWS, Azure, OCI, Docker
@@ -67,6 +72,9 @@
 * **OS**: Linux(RHEL), Windows
 
 ## スキルセット(個人開発/技術記事作成)
+
+今後はクラウド系でI2C(Terraform)/サーバーレス(Docker/ECS/K8S)/CICD(Codepipeline/GitHubAction)
+系のスキルを積みたいと思い、個人開発/技術記事作成に取り掛かっています。
 
 [qiitaリンク](https://qiita.com/naritomo08/)
 
@@ -79,7 +87,42 @@
 * **バージョン管理**: Git, GitHub
 * **その他ツール**: Route53, ACM(SSH生成), ECS, ECR, ALB, S3, CI/CD(GitHubActioins), Terraform(Azure/AWS/GCP/OCI), Lambda, APIGateway
 
-## 個人開発/技術記事作成
+## ソフトスキル
+
+* コミュニケーション能力
+  - PLとしてプロジェクト提案からリリースまでの顧客折衝、チームマネージメントを実施しています。
+* 問題解決能力
+  - これまでの参画案件で技術的/コミュニケーション問題について自ら手を上げ対応してきました。
+* 柔軟性
+  - 今まで行ってきたサーバエンジニアにこもらず、別の領域に関する個人開発/技術記事作成を介して自己研鑽しています。
+
+## これから行っていきたいこと。
+
+* PL/PM/スペシャリストとしての良い経験
+
+今までテックリーダーや小規模(2,3人)でのリーダーにつくことはあったが、
+規模が大きなところでの経験を積むことがなかったので、良い経験(複数人へのPL/PM経験)を積んでいきたい。
+
+もしくはスペシャリストとして、技術選定や顧客提案などのスキルも積んでいきたい。
+
+* 社内メンバーとの積極的な交流
+
+今まで、1人SESや専門が私だけなどで、あまり社内の方とナレッジ共有できない環境にいたため、
+これまで個人開発や技術研鑽などで得た知見を共有できなかったため、
+これらを積極的に開示して、交流していきたい。
+
+* I2C(Terraform)/サーバーレス(Docker/ECS/K8S)/CICD(Codepipeline/GitHubAction)等、
+　トレンドに合わせた技術について、実務での取り扱い
+
+個人検証でも取り扱っている本システム関連について、上記2つに合わせ実践でも経験していきたい。
+
+## 資格
+ 
+* [AWS Solution Architect Associate] - [令和5年1月]
+* [LPICレベル1] - [平成26年1月]
+* [マイクロソフト認定資格（MCSA）Windows Server 2008] - [平成24年4月]
+
+## 個人開発/技術記事作成内容
 
 ### 記事1: Terraformによる各種クラウドへのシステム立ち上げ(AWS/Azure/GCP/OCI)
 * 概要: Terraformを使用したコードからのインフラ構築方法の提示の提示
@@ -93,7 +136,6 @@
   - [Terraform稼働Docker](https://github.com/naritomo08/terraform_docker_public)
   - [Terraformソース(AWS/Azure/GCP/OCI VMリソース作成)](https://github.com/naritomo08/terraform_source_public)
   - [Terraformソース(AWS サイト立ち上げ)](https://github.com/naritomo08/terraform_main_source_public)
-
 
 ### 記事2: CI/CD環境構築(GitHubAction)
 * 概要: Terraform/Dockerを使用し、Laravelサイトのインフラ構築〜ECSへのデプロイ実施
@@ -137,17 +179,5 @@
 * ソースリポジトリ
   - [TODOサイトソース](https://github.com/naritomo08/todosite)
 
-## ソフトスキル
 
-* コミュニケーション能力
-  - PLとしてプロジェクト提案からリリースまでの顧客折衝、チームマネージメントを実施しています。
-* 問題解決能力
-  - これまでの参画案件で技術的/コミュニケーション問題について自ら手を上げ対応してきました。
-* 柔軟性
-  - 今まで行ってきたサーバエンジニアにこもらず、別の領域に関する個人開発/技術記事作成を介して自己研鑽しています。
 
-## 資格
- 
-* [AWS Solution Architect Associate] - [令和5年1月]
-* [LPICレベル1] - [平成26年1月]
-* [マイクロソフト認定資格（MCSA）Windows Server 2008] - [平成24年4月]
