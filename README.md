@@ -29,13 +29,13 @@
 
 * コミュニケーション能力
   - PLとして日々メンバーとコミュニケーションを取ることによって、心理的安全性を確保し、円滑にプロジェクトを進めることが出来ています。
-  - お客様との打ち合わせの際、提示するプレゼン資料や説明に対し、なるべく顧客目線シンプルな資料作成を心がけ、顧客とスムーズに打ち合わせを進めることができています。
+  - お客様との打ち合わせの際、提示するプレゼン資料や説明に対し、なるべく顧客目線シンプルな資料作成や説明を心がけ、顧客とスムーズに打ち合わせを進めることができています。
 
 * 問題解決能力
-  - プロジェクト内外での技術的問題/課題について自ら手を上げ、期限など調整し内外の有識者も巻き込んで解決してきました。
+  - プロジェクト内外での技術的問題/課題について自ら手を上げ、内外の有識者も巻き込んで問題解決してきました。
 
 * 柔軟性
-  - 今まで行ってきたサーバエンジニアにこもらず、別の領域(I2C,サーバーレス,CI/CD,Docker,Laravel)の自己検証をしており、その成果を個人開発/技術記事作成にて公開しています。
+  - 今まで行ってきたオンプレエンジニア領域にこもらず、別の領域(I2C,CI/CD,コンテナ技術,Laravel)の自己検証をしており、その成果を個人開発/技術記事作成にて公開しています。
   - 新しく行う業務に関しても自ら自己検証を行い理解を深め、いち早く成果を出すことによりいろんな領域にチャレンジしてまいりました。
 
 ## プロジェクト経験(主要)
@@ -122,8 +122,7 @@
 * **データベース**: MySQL, PostgreSQL
 * **インフラ**: AWS, Azure, GCP, OCI, Docker
 * **バージョン管理**: Git, GitHub
-* **その他ツール**: Route53, ACM(SSH生成), ECS, ECR, ALB, S3, CI/CD(GitHubActioins),  
-                 Terraform(Azure/AWS/GCP/OCI), Lambda, APIGateway
+* **その他ツール**: Route53, ACM(SSH生成), ECS, ECR, ALB, S3, CI/CD(GitHubActioins),Terraform(Azure/AWS/GCP/OCI), Lambda, APIGateway
 
 ## 個人開発/技術記事作成内容
 
@@ -166,7 +165,7 @@
 ### 個人開発1: API開発
 * 概要: API開発の実施(JSONパーサー)
 * 使用技術: Docker/Docker-compose/Phoenix(Elixir)/Laravel(PHP)/Ruby on Rails/Lambda/APIGateway/ACM/Route53/Python
-* 成果: API開発を通じた開発方法の習得
+* 成果: API開発を通じたWeb開発方法の習得
 * 技術記事: 
   - [Elixir/PhoenixでJSONパーサーAPIを作ってみる。](https://qiita.com/naritomo08/items/e45f5e97f44fcc6426a6)
   - [PHP/LaravelでJSONパーサーAPIを作ってみる。](https://qiita.com/naritomo08/items/d495f3d8b1dc5680aa2e)
@@ -181,6 +180,14 @@
   - [SPA対応させたToDoアプリを作成してみた。](https://qiita.com/naritomo08/items/6def339a15ec3bbef78a)
 * ソースリポジトリ
   - [TODOサイトソース](https://github.com/naritomo08/todosite)
+
+### 個人開発３： つぶやきサイト開発
+
+* 概要: つぶやきサイト開発の実施
+* 使用技術: Docker/Docker-compose/Laravel9/OCI/Terraform
+* 成果: サイト作成を通じた一通りのWeb開発方法、クラウドインフラ構築方法の習得
+* 公開サイト(テスト公開中)
+  - [つぶやきアプリ](https://qiita.com/naritomo08/items/6def339a15ec3bbef78a)
 
 
 
