@@ -184,8 +184,11 @@
 * 概要: つぶやきサイト開発の実施
 * 使用技術: Docker/Docker-compose/Laravel9/OCI/Terraform
 * 成果: サイト作成を通じた一通りのWeb開発方法、クラウドインフラ構築方法の習得
-* 公開サイト(テスト公開中)
-  - [つぶやきアプリ](https://qiita.com/naritomo08/items/6def339a15ec3bbef78a)
+* 技術記事(インフラ情報記載):
+  - [Terraformにて、実践的なOCIサイトインフラを作成する。](https://qiita.com/naritomo08/items/a5065f1a0b159efd47a7)
+* 公開サイト(テスト公開中):
+  - [つぶやきアプリ](https://www.naritomo.site/tweet)
+
 
 
 
