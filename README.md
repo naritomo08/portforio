@@ -160,6 +160,13 @@
   - [Javaサーブレット開発環境をdocker環境で立ち上げてみる。](https://qiita.com/naritomo08/items/c3c713bd9625f225d2e7)
   - [Angular開発環境をdocker環境で立ち上げてみる。](https://qiita.com/naritomo08/items/b331ee87cbf9ed7af3f9)
 
+### 記事４: Kubernetis(K8S)環境立ち上げ
+* 概要: K8S環境構築方法の提示
+* 使用技術: Terraform/GCP/GKE/K8S
+* 成果: K8S環境構築方法の習得
+* 技術記事: 
+  - [terraformでGKEを立ち上げてみた。](https://qiita.com/naritomo08/items/0f6e5ed158ffe82775d9)
+
 ### 個人開発1: API開発
 * 概要: API開発の実施(JSONパーサー)
 * 使用技術: Docker/Docker-compose/Phoenix(Elixir)/Laravel(PHP)/Ruby on Rails/Lambda/APIGateway/ACM/Route53/Python
