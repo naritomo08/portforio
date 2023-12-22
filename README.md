@@ -165,6 +165,7 @@
 * 使用技術: Terraform/GCP/GKE/K8S
 * 成果: K8S環境構築方法の習得
 * 技術記事: 
+  - [gcloudコマンドでGKEを立ち上げてみた。](https://qiita.com/naritomo08/items/d1a3122264b248915360)
   - [terraformでGKEを立ち上げてみた。](https://qiita.com/naritomo08/items/0f6e5ed158ffe82775d9)
 
 ### 個人開発1: API開発
