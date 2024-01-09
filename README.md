@@ -196,7 +196,6 @@
 * 使用技術: Docker/Docker-compose/Laravel9/OCI/Terraform
 * 成果: サイト作成を通じた一通りのWeb開発方法、OCIクラウドインフラ構築方法の習得
 * 技術記事:
-  - [Terraformにて、実践的なOCIサイトインフラを作成する。作成中](https://qiita.com/naritomo08/items/a5065f1a0b159efd47a7)
   - [Laravel9でつぶやきサイトを作ってみる。](https://qiita.com/naritomo08/items/c0f139fa19295b9a0319)
 * ソースリポジトリ
   - [つぶやきアプリソース](https://github.com/naritomo08/laravel9tubu)
