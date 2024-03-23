@@ -73,7 +73,7 @@
 
 ## 資格
 
-* [AWS ANS] - [2024年3月]
+* [AWS SAP] - [2024年3月]
 * [AWS ANS] - [2024年2月]
 * [AWS SAA] - [2023年1月]
 * [LPICレベル1] - [2014年1月]
@@ -203,7 +203,3 @@
   - [つぶやきアプリソース](https://github.com/naritomo08/laravel9tubu)
 * 公開サイト(テスト公開中):
   - [つぶやきアプリ](https://www.naritomo.site/tweet)
-
-
-
-
