@@ -157,13 +157,14 @@
 
 ### 個人開発1: API開発
 * 概要: API開発の実施(JSONパーサー)
-* 使用技術: Docker/Docker-compose/Phoenix(Elixir)/Laravel(PHP)/Ruby on Rails/Lambda/APIGateway/ACM/Route53/Python
+* 使用技術: Docker/Docker-compose/Phoenix(Elixir)/Laravel(PHP)/Ruby on Rails/Lambda/APIGateway/ACM/Route53/Python/Azure Function
 * 成果: API開発を通じたWeb開発方法の習得
 * 技術記事: 
   - [Elixir/PhoenixでJSONパーサーAPIを作ってみる。](https://qiita.com/naritomo08/items/e45f5e97f44fcc6426a6)
   - [PHP/LaravelでJSONパーサーAPIを作ってみる。](https://qiita.com/naritomo08/items/d495f3d8b1dc5680aa2e)
   - [Ruby on RailsでJSONパーサーAPIを作ってみる。](https://qiita.com/naritomo08/items/2abd4ff6d0535aa87200)
   - [AWS Lambda+API GatewayでJSONパーサーAPIを作ってみる。](https://qiita.com/naritomo08/items/e60b08b014c723a1435f)
+  - [Azure FunctionでJSONパーサーAPIを作ってみる。](https://qiita.com/naritomo08/items/80eb6e69128cad675db2)
 
 ### 個人開発2: TODOサイト開発
 * 概要: TODOサイト開発の実施
@@ -185,3 +186,11 @@
   - [つぶやきアプリソース](https://github.com/naritomo08/laravel9tubu)
 * 公開サイト(テスト公開中):
   - [つぶやきアプリ](https://www.naritomo.site/tweet)
+
+### 個人開発4:AI系検証
+
+* 概要: AI系検証の実施
+* 使用技術: StableDiffusion/Python3
+* 成果: AIについての理解、APIを使用するための作成方法の理解
+* 技術記事:
+  - [StableDiffusion APIから画像生成してみる。](https://qiita.com/naritomo08/items/c521f1b338489bdf9ee8)
