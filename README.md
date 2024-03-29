@@ -119,6 +119,7 @@
   - [Terraformをdocker環境で立ち上げてみる。](https://qiita.com/naritomo08/items/7e5a9d1b7eaf18dc0060)
   - [Terraformエトセトラ](https://qiita.com/naritomo08/items/0765649b6e79ded5ef09)
   - [Terraformにて、実践的なAWSサイトインフラを作成する。](https://qiita.com/naritomo08/items/0845c1dfeb11be9187cd)
+  - [Terraformにて、実践的なAzureサイトインフラを作成する。](https://qiita.com/naritomo08/items/1858bde73b54f3f1abb1)
 * ソースリポジトリ
   - [Terraform稼働Docker](https://github.com/naritomo08/terraform_docker_public)
   - [Terraformソース(AWS/Azure/GCP/OCI VMリソース作成)](https://github.com/naritomo08/terraform_source_public)
@@ -154,6 +155,15 @@
 * 技術記事: 
   - [gcloudコマンドでGKEを立ち上げてみた。](https://qiita.com/naritomo08/items/d1a3122264b248915360)
   - [terraformでGKEを立ち上げてみた。](https://qiita.com/naritomo08/items/0f6e5ed158ffe82775d9)
+
+### 記事5: AWS CDKによる各種クラウドへのシステム立ち上げ(AWS/Azure/GCP/OCI)
+* 概要: AWS CDKを使用したコードからのインフラ構築方法の提示の提示
+* 使用技術: AWS/AWS CDK/Typescript/Python/.NET/Java/Go
+* 成果: AWS CDKによるAWSリソース構築方法の習得
+* 技術記事: 
+   - [AWS CDKでAWSリソースを作成してみる。](https://qiita.com/naritomo08/items/79f988234c5735ef1afb)
+* ソースリポジトリ
+  - [AWS CDKソース](https://github.com/naritomo08/cdk-workshop)
 
 ### 個人開発1: API開発
 * 概要: API開発の実施(JSONパーサー)
