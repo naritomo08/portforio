@@ -158,7 +158,7 @@
 
 ### 記事5: AWS CDKによる各種クラウドへのシステム立ち上げ(AWS/Azure/GCP/OCI)
 * 概要: AWS CDKを使用したコードからのインフラ構築方法の提示の提示
-* 使用技術: AWS/AWS CDK/Typescript/Python/.NET/Java
+* 使用技術: AWS/AWS CDK/Typescript/Python/.NET/Java/Go
 * 成果: AWS CDKによるAWSリソース構築方法の習得
 * 技術記事: 
    - [AWS CDKでAWSリソースを作成してみる。](https://qiita.com/naritomo08/items/79f988234c5735ef1afb)
