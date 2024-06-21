@@ -155,6 +155,7 @@
 * 技術記事: 
   - [gcloudコマンドでGKEを立ち上げてみた。](https://qiita.com/naritomo08/items/d1a3122264b248915360)
   - [terraformでGKEを立ち上げてみた。](https://qiita.com/naritomo08/items/0f6e5ed158ffe82775d9)
+  - [Raspberry pi4でK8Sクラスタを立ててみた。](https://qiita.com/naritomo08/items/fb0f05e22a9614820e7a)
 
 ### 記事5: AWS CDKによる各種クラウドへのシステム立ち上げ(AWS/Azure/GCP/OCI)
 * 概要: AWS CDKを使用したコードからのインフラ構築方法の提示の提示
