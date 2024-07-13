@@ -112,6 +112,7 @@
 ## 個人開発/技術記事作成内容
 
 ### 記事1: Terraformによる各種クラウドへのシステム立ち上げ(AWS/Azure/GCP/OCI)
+
 * 概要: Terraformを使用したコードからのインフラ構築方法の提示の提示
 * 使用技術: Docker/Docker-compose/Terraform/AWS/Azure/GCP/OCI
 * 成果: Terraformによるクラウド環境を問わない構築方法の習得
@@ -125,17 +126,20 @@
   - [Terraformソース(AWS/Azure/GCP/OCI VMリソース作成)](https://github.com/naritomo08/terraform_source_public)
   - [Terraformソース(AWS サイト立ち上げ)](https://github.com/naritomo08/terraform_main_source_public)
 
-### 記事2: CI/CD環境構築(GitHubAction)
+### 記事2: CI/CD環境構築(GitHubAction/Gitlab)
+
 * 概要: Terraform/Dockerを使用し、Laravelサイトのインフラ構築〜ECSへのデプロイ実施
 * 使用技術: Docker/Docker-compose/Terraform/GitHubAction/AWS(ECS/ECR/ALB)
 * 成果: ローカルLaravelサイトからAWS/ECSへのデプロイを通じたCI/CD環境の構築方法習得
 * 技術記事: 
   - [Terraformを使用してECS環境構築し、Laravelサイトを立ち上げてみた。](https://qiita.com/naritomo08/items/6e38955145d80c1435bd)
+  - [お家CI/CD環境を組んでみた。](https://qiita.com/naritomo08/items/4a9725d8a57fceeec243)
 * ソースリポジトリ
   - [インフラ構築Terraformソース](https://github.com/naritomo08/laravel-fargate-infra-public)
   - [デプロイ対象Laravelソース](https://github.com/naritomo08/laravel-fargate-app-public)
 
 ### 記事3: Dockerへの各種プログラム開発環境立ち上げ
+
 * 概要: フロントエンド/バックエンドに関連する各種開発環境のDocker構築方法の提示
 * 使用技術: Docker/Docker-compose/Laravel(PHP)/Rails(Ruby)/Phoenix(Elixir)/React/Vue/wordpress/java(maven)/tomcat/apache/Angular
 * 成果: DockerによるOSを問わない開発環境構築方法の習得
@@ -149,6 +153,7 @@
   - [Angular開発環境をdocker環境で立ち上げてみる。](https://qiita.com/naritomo08/items/b331ee87cbf9ed7af3f9)
 
 ### 記事４: Kubernetis(K8S)環境立ち上げ
+
 * 概要: K8S環境構築方法の提示
 * 使用技術: Terraform/GCP/GKE/K8S
 * 成果: K8S環境構築方法の習得
@@ -158,6 +163,7 @@
   - [Raspberry pi4でK8Sクラスタを立ててみた。](https://qiita.com/naritomo08/items/fb0f05e22a9614820e7a)
 
 ### 記事5: AWS CDKによる各種クラウドへのシステム立ち上げ(AWS/Azure/GCP/OCI)
+
 * 概要: AWS CDKを使用したコードからのインフラ構築方法の提示の提示
 * 使用技術: AWS/AWS CDK/Typescript/Python/.NET/Java/Go
 * 成果: AWS CDKによるAWSリソース構築方法の習得
@@ -167,6 +173,7 @@
   - [AWS CDKソース](https://github.com/naritomo08/cdk-workshop)
 
 ### 個人開発1: API開発
+
 * 概要: API開発の実施(JSONパーサー)
 * 使用技術: Docker/Docker-compose/Phoenix(Elixir)/Laravel(PHP)/Ruby on Rails/Lambda/APIGateway/ACM/Route53/Python/Azure Function
 * 成果: API開発を通じたWeb開発方法の習得
@@ -178,6 +185,7 @@
   - [Azure FunctionでJSONパーサーAPIを作ってみる。](https://qiita.com/naritomo08/items/80eb6e69128cad675db2)
 
 ### 個人開発2: TODOサイト開発
+
 * 概要: TODOサイト開発の実施
 * 使用技術: Docker/Docker-compose/FastAPI(Python)/React/MySQL
 * 成果: TODOサイト開発を通じたサーバーレスサイト開発方法の習得
