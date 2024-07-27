@@ -209,7 +209,9 @@
 ### 個人開発4:AI系検証
 
 * 概要: AI系検証の実施
-* 使用技術: StableDiffusion/Python3
-* 成果: AIについての理解、APIを使用するための作成方法の理解
+* 使用技術: StableDiffusion/ChatGPT/Python3
+* 成果: AIについての理解、AI関連APIを使用するためのプログラム作成方法の理解
 * 技術記事:
   - [StableDiffusion APIから画像生成してみる。](https://qiita.com/naritomo08/items/c521f1b338489bdf9ee8)
+  - [1時間という爆速でchatgpt応答pythonプログラム作ってみた。](https://qiita.com/naritomo08/items/155bc27972b3d045c085)
+  - [ChatGPTとやり取りするWebアプリ作ってみた。](https://qiita.com/naritomo08/items/93036ab772c062f97808)
