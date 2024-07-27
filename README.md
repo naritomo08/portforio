@@ -214,3 +214,4 @@
 * 技術記事:
   - [StableDiffusion APIから画像生成してみる。](https://qiita.com/naritomo08/items/c521f1b338489bdf9ee8)
   - [1時間という爆速でchatgpt応答pythonプログラム作ってみた。](https://qiita.com/naritomo08/items/155bc27972b3d045c085)
+  - [ChatGPTとやり取りするWebアプリ作ってみた。](https://qiita.com/naritomo08/items/93036ab772c062f97808)
